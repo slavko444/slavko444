@@ -10,7 +10,7 @@ I love programming<br>
 </h3>
 
 <br>
-<h5 align="left">About me</h5><br>
+<h3 align="left">🐒 About me</h3><br>
 <p align="left">Passionate and experienced programmer with 0 years of experience in software development. Specializing in web development, mobile applications, backend development,IA development Game development using technologies such as Java, C++, C#, PHP, MySQL, Unity. Proven ability in problem-solving, performance optimization, developing scalable applications. Committed to continuous learning and skill enhancement to deliver innovative solutions that meet user and business needs.</p>
 <br>
 <p align="left"><br><br>- 📚 I'm currently learning PHP<br>- ⚡ In my free time I play Chess</p>
