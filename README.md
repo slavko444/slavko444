@@ -8,8 +8,8 @@ I hate programming<br>
 It works!<br>
 I love programming<br>
 </h3>
-###
-<p align="left">I'm from Stip<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning JavaScript<br>- ⚡ In my free time I play chess</p>
+
+<p align="left"><br><br>- 📚 I'm currently learning PHP<br>- ⚡ In my free time I play Chess</p>
 
 ###
 
@@ -44,8 +44,8 @@ I love programming<br>
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slavko444&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slavko444&langs_count=8&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slavko444&show_icons=true&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slavko444&langs_count=8&)
 
 
 
